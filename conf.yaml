@@ -1,6 +1,6 @@
 listenPort: 5000
 listenSsl: false
 proxyRemoteSsl: true
-proxyHost: localhost
+proxyHost: api.ibkr.com
 logging:
   root: error
