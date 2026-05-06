@@ -1,5 +1,2 @@
 listenPort: 5000
 listenSsl: false
-proxyRemoteSsl: true
-logging:
-  root: error
